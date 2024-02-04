@@ -1,0 +1,5 @@
+n1 = int(input('Digite um número: '))
+do = (n1*2)
+tr = (n1*3)
+rq = (n1**(1/2))
+print('O valor que você digitou foi {}, seu dobro é {}, seu triplo é {}, e sua raiz quadrada é {}'.format(n1, do, tr, rq))
