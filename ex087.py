@@ -4,7 +4,7 @@ somacoluna = 0
 maior = 0
 for linha in range(0,3):
     for coluna in range(0,3):
-        lista [linha] [coluna] = int(input(f'Digite um valor para a posição {linha},{coluna}: '))
+        lista [linha] [coluna] = int(input(f'Digite um valor para a posição {linha},{coluna}: '))3
 print('-=' * 30)
 for linha in range(0,3):
     for coluna in range(0,3):
