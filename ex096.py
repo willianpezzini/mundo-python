@@ -10,4 +10,3 @@ a = float(input('Digite a largura em metros do seu terreno: '))
 b = float(input('Digite o comprimento em metros do seu terreno: '))
 print('-=' * 30)
 area(a, b)
-
